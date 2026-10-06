@@ -44,15 +44,17 @@ Columns: `class_material_search`, `forum_search`, `web_search`, `planning`, `deb
 
 **survey2_perception.csv**
 
-Columns `q1` to `q14` follow the item numbers of the questionnaire. Values 1 to 5. An empty cell is an item the respondent left unanswered.
+Columns `q1` to `q14` follow the item numbers in the article's appendix. Values 1 to 5. An empty cell is an item the respondent left unanswered (12 of 434 responses).
 
 | Construct | Items |
 |---|---|
-| Attitude | q1, q4, q6, q9 |
-| Knowledge | q2 |
-| Learning Effectiveness | q3, q5 |
-| Skills | q7, q8, q11 |
-| Long-Term Learning | q10, q12, q13, q14 |
+| Learning Effectiveness | q1, q2 |
+| Knowledge | q3 |
+| Skills | q4, q5, q6 |
+| Attitude | q7, q8, q9, q10 |
+| Long-Term Learning | q11, q12, q13, q14 |
+
+Construct scores in the article are the mean of the answered items.
 
 **interrater_subset.csv**
 
